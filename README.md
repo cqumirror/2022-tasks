@@ -64,4 +64,4 @@
 
 ## 许可
 
-[CC-BY-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
